@@ -1,0 +1,34 @@
+.logosize{
+    height: 80px;
+    padding-right: 10px;
+}
+.left-header a{
+    color: white!important;
+}
+.imagemed{
+    height: 400px;
+}
+ul.about{
+   list-style-type: circle!important; 
+}
+b{
+    font-weight: 900;
+}
+.white{
+    color: white!important;
+}
+.grey{
+    color: #777777!important;
+}
+.fontsmall{
+    font-size: 13px;
+}
+.service-description{
+    margin-bottom: 55px;
+}
+.imgcenter{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
